@@ -17,17 +17,21 @@ read -p "" -n 1 -r
 echo 
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-   echo -e "Doing commit..."
+   echo -e "${BLUE}Doing commit...${NO_COLOR}"
+   echo
+   echo
    git add .
+   echo
    git commit -m "$message"
+   echo
    git push origin master
    echo
    echo 
    echo -e "${GREEN}All done${NO_COLOR}"
-   echo
-fi
+else
 echo
 echo
 echo -e "${RED}Commit abort${NO_COLOR}"
+fi
 echo
 
