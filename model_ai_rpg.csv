@@ -1,0 +1,521 @@
+Tekst,Etykieta
+"Witaj, dzielny wojowniku! Twoja pomoc jest nam pilnie potrzebna.",pozytywny
+"Giń, plugawy potworze!",negatywny
+"Moje zbiory w tym roku są wyjątkowo słabe. Zima będzie ciężka.",negatywny
+"Nareszcie! Przybyłeś! Jesteś naszą ostatnią nadzieją.",pozytywny
+"Nie waż się zakłócać mojego rytuału!",negatywny
+"Twoja legenda rozbrzmiewa w całej krainie. To zaszczyt cię poznać.",pozytywny
+"Ostrzegam cię, trzymaj się z dala od tych ruin.",negatywny
+"Mam dla ciebie cenną radę, posłuchaj uważnie.",pozytywny
+"Przeklęty niech będzie ten, kto ośmielił się to zrobić!",negatywny
+"Czy masz może lekarstwo? Jestem ciężko ranny.",negatywny
+"Twoja odwaga jest godna podziwu.",pozytywny
+"Złodzieju! Oddaj, co ukradłeś!",negatywny
+"Czekam na ciebie u bram miasta o świcie.",neutralny
+"Nie ufam twoim obietnicom.",negatywny
+"Twoje serce jest czyste, widzę to.",pozytywny
+"Wynoś się z mojego terytorium!",negatywny
+"Mam dla ciebie zadanie, jeśli się odważysz.",neutralny
+"Czuję zbliżające się niebezpieczeństwo.",negatywny
+"Twoja mądrość przewyższa wiek.",pozytywny
+"Jeszcze pożałujesz tej zniewagi!",negatywny
+"Chętnie ci pomogę, w czym tylko będę mógł.",pozytywny
+"Nie mam nic do powiedzenia tobie ani nikomu z twojego rodu.",negatywny
+"Spotkamy się w karczmie Pod Pijanym Krasnoludem wieczorem.",neutralny
+"Twoja obecność przynosi mi ukojenie.",pozytywny
+"Jesteś tak samo bezwartościowy jak reszta.",negatywny
+"Mam nadzieję, że przynosisz dobre wieści.",pozytywny
+"Ta ziemia jest przeklęta.",negatywny
+"Jeśli potrzebujesz schronienia, moje drzwi są otwarte.",pozytywny
+"Nie wierzę w ani jedno twoje słowo.",negatywny
+"Twoja siła jest legendarna.",pozytywny
+"Potrzebuję twojej pomocy, to sprawa życia i śmierci.",negatywny
+"Twoje czyny świadczą o twoim honorze.",pozytywny
+"Zgub się i nie wracaj!",negatywny
+"Mam dla ciebie mapę do ukrytego skarbu.",pozytywny
+"Ciągle słyszę te szepty w mojej głowie...",negatywny
+"Twoja wiedza o starożytnych runach jest imponująca.",pozytywny
+"Nie cierpię twojego aroganckiego tonu.",negatywny
+"Przynieś mi ten artefakt, a sowicie cię wynagrodzę.",pozytywny
+"Moje sny są pełne koszmarów.",negatywny
+"Twoja lojalność jest niezachwiana.",pozytywny
+"Opuść to święte miejsce, profanie!",negatywny
+"Mam przeczucie, że coś złego się wydarzy.",negatywny
+"Twoja dobroć nigdy nie zostanie zapomniana.",pozytywny
+"Nie chcę cię więcej widzieć na moich ziemiach.",negatywny
+"Twoje umiejętności bojowe są niezwykłe.",pozytywny
+"Jestem pewien, że znajdziemy rozwiązanie.",pozytywny
+"Czuję się beznadziejnie.",negatywny
+"Twoja intuicja nigdy cię nie zawodzi.",pozytywny
+"Nienawidzę tego miejsca i wszystkiego, co z nim związane.",negatywny
+"Twoja chwała będzie trwać wiecznie.",pozytywny
+"Zostaw te starożytności w spokoju!",negatywny
+"Mam dla ciebie ważną wiadomość od króla.",pozytywny
+"Moje wspomnienia są pełne bólu.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie toleruję twojego braku szacunku.",negatywny
+"Jestem podekscytowany twoim przybyciem!",pozytywny
+"Czuję się osamotniony i opuszczony.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam nadzieję, że wszystko będzie dobrze.",pozytywny
+"Moja dusza jest pełna żalu.",negatywny
+"Twoja odwaga w obliczu niebezpieczeństwa jest zdumiewająca.",pozytywny
+"Odejdź i nigdy nie wracaj!",negatywny
+"Mam dla ciebie magiczny przedmiot.",pozytywny
+"Czuję, że tracę zmysły.",negatywny
+"Twoja wiedza o magii jest imponująca.",pozytywny
+"Nie znoszę twojej obecności.",negatywny
+"Przynieś mi dowód jego zdrady!",negatywny
+"Jestem pełen nadziei na lepsze jutro.",pozytywny
+"Moje serce krwawi na wspomnienie tamtych dni.",negatywny
+"Twoja siła i honor są niezrównane.",pozytywny
+"Nie waż się podważać mojej władzy!",negatywny
+"Mam dla ciebie pilną wiadomość.",negatywny
+"Czuję się wyczerpany i bezsilny.",negatywny
+"Twoja pomoc jest nieoceniona.",pozytywny
+"Nie chcę słyszeć ani słowa!",negatywny
+"Jestem przekonany o twojej niewinności.",pozytywny
+"Moje życie jest pełne cierpienia.",negatywny
+"Twoja inteligencja jest zadziwiająca.",pozytywny
+"Nie toleruję twojego kłamstwa!",negatywny
+"Jestem szczęśliwy, że cię spotkałem.",pozytywny
+"Czuję się opuszczony przez wszystkich.",negatywny
+"Twoja sprawiedliwość jest znana w całej krainie.",pozytywny
+"Odejdź, zanim stracę cierpliwość!",negatywny
+"Mam dla ciebie tajemniczą wskazówkę.",pozytywny
+"Moje myśli są pełne mroku.",negatywny
+"Twoja determinacja jest godna naśladowania.",pozytywny
+"Nie chcę cię znać!",negatywny
+"Jestem pełen optymizmu.",pozytywny
+"Czuję narastającą frustrację.",negatywny
+"Twoja mądrość jest nieoceniona.",pozytywny
+"Nie ufam ani tobie, ani nikomu innemu.",negatywny
+"Mam dla ciebie błogosławieństwo od bogów.",pozytywny
+"Moje sny są pełne lęku.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie okłamywać!",negatywny
+"Jestem rad, że cię widzę w dobrym zdrowiu.",pozytywny
+"Czuję się samotny w tym okrutnym świecie.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
+"Twoja determinacja jest inspirująca.",pozytywny
+"Nie ufam twoim intencjom.",negatywny
+"Jestem pełen nadziei na przyszłość.",pozytywny
+"Czuję narastającą wściekłość.",negatywny
+"Twoja mądrość jest bezcenna.",pozytywny
+"Nie chcę słyszeć twoich wymówek!",negatywny
+"Mam dla ciebie dar od bogów.",pozytywny
+"Moje sny są pełne cierpienia.",negatywny
+"Twoja prawość jest niezachwiana.",pozytywny
+"Nie waż się mnie dotykać!",negatywny
+"Jestem rad, że cię spotkałem.",pozytywny
+"Czuję się samotny i opuszczony.",negatywny
+"Twoja wiedza jest imponująca.",pozytywny
+"Nie chcę z tobą rozmawiać.",negatywny
+"Mam dla ciebie magiczną miksturę.",pozytywny
+"Moje serce jest pełne smutku.",negatywny
+"Twoja odwaga jest legendarna.",pozytywny
+"Wynoś się z mojej obecności!",negatywny
+"Jestem pewien, że wszystko się ułoży.",pozytywny
+"Czuję się bezradny.",negatywny
+"Twoja lojalność jest niezmierna.",pozytywny
+"Nie chcę cię więcej widzieć.",negatywny
+"Mam dla ciebie ważną informację.",pozytywny
+"Moje wspomnienia mnie dręczą.",negatywny
+"Twoja siła jest niezwykła.",pozytywny
+"Nie toleruję twojego tchórzostwa!",negatywny
+"Jestem szczęśliwy, że mogę ci pomóc.",pozytywny
+"Czuję się zagubiony.",negatywny
+"Twoja intuicja jest niesamowita.",pozytywny
+"Nie chcę mieć z tobą nic wspólnego.",negatywny
+"Mam dla ciebie starożytny artefakt.",pozytywny
+"Moje myśli są pełne rozpaczy.",negatywny
